@@ -39,6 +39,14 @@
 # except Exception as e:
 #     print(f"Something went wrong: {e}")
 
-
-
-
+# task 4
+# string = ("Sunlight is made up of many wavelengths—or colors—of light.")
+# print(string[2])
+# print(string[-2])
+# print(string[:5])
+# print(string[:-2])
+# print(string[::2])
+# print(string[1::2])
+# print(string[::-1])
+# print(string[::-2])
+# print(len(string))
