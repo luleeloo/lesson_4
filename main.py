@@ -50,3 +50,5 @@
 # print(string[::-1])
 # print(string[::-2])
 # print(len(string))
+
+# all main tasks finished
