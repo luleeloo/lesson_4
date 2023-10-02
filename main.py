@@ -25,3 +25,20 @@
 #     else:
 #         print("The character has not been found")
 #         break
+
+# task 3
+# try:
+#     string = input("Enter a string of characters: ")
+#     old_word = input("Enter the word you would like to have replaced: ")
+#     if string.find(old_word) == -1:
+#         print(f"No such a word in the string!")
+#     else:
+#         new_word = input("Enter the new word for replacement: ")
+#         copy_string = string.replace(old_word, new_word)
+#         print(f"Result: {copy_string}")
+# except Exception as e:
+#     print(f"Something went wrong: {e}")
+
+
+
+
